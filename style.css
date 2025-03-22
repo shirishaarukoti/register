@@ -1,0 +1,37 @@
+#main{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#caption{
+
+    width: 700px;
+    height: 1000px;
+}
+
+#head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: blueviolet;
+    text-decoration: underline;
+    font-family:Georgia, 'Times New Roman';
+    font-size: large;
+}
+
+#caption {
+    border: 5px solid purple;
+    box-shadow: 5px 5px 5px 10px black;;
+}
+
+#submit{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: blueviolet;
+    
+
+}
